@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Burayd Khan</h1>
-<h3 align="center">Studing cs ib order to build something cool</h3>
+<h3 align="center">Studing cs in order to build something cool</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buraydkhan&label=Profile%20views&color=0e75b6&style=flat" alt="buraydkhan" /> </p>
 
