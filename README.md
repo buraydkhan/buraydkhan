@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Burayd Khan</h1>
-<h3 align="center">A passionate learner of computer science</h3>
+<h3 align="center">Studing cs ib order to build something cool</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buraydkhan&label=Profile%20views&color=0e75b6&style=flat" alt="buraydkhan" /> </p>
 
@@ -9,11 +9,11 @@
 
 - 🤝 I’m looking for help with **networking**
 
-- 💬 Ask me about **Networking, ethical hacking and kali linux**
+- 💬 Ask me about **AI, DS, LINUX, EMULATION, COMPUTER SCIENCE**
 
 - 📫 How to reach me **burayd100@gmail.com**
 
-- ⚡ Fun fact **I like to emulate console games on linux**
+- ⚡ Fun fact **GOOD AT CHESS :>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
