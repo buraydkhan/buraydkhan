@@ -1,7 +1,3 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=00F72D&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Burayd+Khan;Computer+Science+Student;Ethical+Hacker+%26+Cybersecurity+Learner;Python+Developer;Linux+Enthusiast;AI+%7C+Data+Science+%7C+Chess+Player;Always+Learning+New+Things+🚀" />
-</h1>
-
 <h3 align="center">
 💻 Computer Science Student • 🛡️ Ethical Hacking • 🐍 Python • 🐧 Linux • ♟ Chess
 </h3>
@@ -119,26 +115,6 @@
 
 ---
 
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=buraydkhan&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=buraydkhan&theme=algolia&no-frame=true&column=7"/>
-
-</p>
-
----
-
 # ⚡ GitHub Metrics
 
 <p align="center">
@@ -149,39 +125,11 @@
 
 ---
 
-# 🔥 Contribution Snake
-
-> **After enabling the Snake GitHub Action**, this animation will appear automatically.
-
-<p align="center">
-
-<img src="https://github.com/buraydkhan/buraydkhan/blob/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
 # 💬 Random Dev Quote
 
 <p align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/burayd100">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:burayd100@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 
 </p>
 
